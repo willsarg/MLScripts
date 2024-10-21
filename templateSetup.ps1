@@ -33,6 +33,9 @@ opencv-python
 albumentations
 seaborn
 pyyaml
+huggingface-hub
+transformers
+accelerate
 "@
 
 # Write the default libraries to requirements.txt
